@@ -31,24 +31,24 @@ disqus:
 # Contact info will be shown on the side bar.
 
 contact:
-  enable: false
-  description: 'Contact Info description'
+  enable: true
+  description: ''
 
   twitter:
     enable: false
     username: twitter_username
 
   github:
-    enable: false
-    username: github_username
+    enable: true
+    username: caoyangyang
 
   weibo:
     enable: false
     username: weibo_username
 
   facebook:
-    enable: false
-    username: facebook_username
+    enable: true
+    username: yangyang.jane.cao
 
   instagram:
     enable: false
@@ -74,8 +74,8 @@ google_analytice:
 # which is useful in China mainland.
 
 ICPLicense:
-  enable: false
-  content: "Fill IPCLicense"
+  enable: true
+  content: "鄂ICP备19027332号-1"
 
 # EtraPlugin
 
