@@ -16,12 +16,12 @@ avatar: https://avatars0.githubusercontent.com/u/5751958?s=460&u=78c700a9964e592
 # Comment
 
 gitalk:
-  enable: false
-  clientID: github_clientID
-  clientSecret: github_clientSecret
-  repo: you site homepage
-  owner: your username
-  admin: same as [owner]
+  enable: true
+  clientID: cc60993bb7f505645f94
+  clientSecret: 2254eb2d6e70cbcd18f4879751f1b6edd42fd31f
+  repo: stop-coding-hexo
+  owner: caoyangyang
+  admin: caoyangyang
 
 disqus:
   enable: false
