@@ -10,11 +10,11 @@ block content
         div.al_pos_ab.al_fake_background
         div.al_main_container
             div.al_section_container.dis_flex_jcenter
-                div.section_header= 'LATEST PAGES'
+                div.section_header= '最新文章'
             ur.al_post_list
                 each item in site.posts.sort('date', -1).toArray()
                     - var postTitle = item.title || 'No Title'
-                    - var createDate = date(item.date, 'MMM DD')
+                    - var createDate = date(item.date, 'YYYY-MM-DD')
                     - var firstChar = postTitle.substr(0, 1)
                     - var postURL = item.link || item.path
                     - var excerpt = item.excerpt + '...' || 'No Excerpt'
@@ -26,7 +26,7 @@ block content
                             div.al_index_post_extra.dis_flex
                                 div.al_index_post_date.al_index_post_extra_item= createDate
                                 div.al_index_post_read_time
-                                    |#{min2read(item.content)} Min Read
+                                    |#{min2read(item.content)} 分钟阅读
                         div.al_index_post_excerpt_cnt
                             p.al_index_post_excerpt= excerpt
                         div.al_index_post_button_cnt.dis_flex
@@ -37,9 +37,9 @@ block content
                     if page.prev
                         a(href=url_for(page.prev_link))
                             span.arrow ←
-                            | Newer Posts
+                            | 下一篇
                 span.next
                     if page.next
                         a(href=url_for(page.next_link))
-                            | Older Posts
+                            | 上一篇
                             span.arrow →

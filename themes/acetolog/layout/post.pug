@@ -37,11 +37,11 @@ block content
                     if page.prev
                         a(href=url_for(prev))
                             span.arrow ←
-                            | Newer Posts
+                            | 上一篇
                 span.next
                     if page.next
                         a(href=url_for(next))
-                            | Older Posts
+                            | 下一篇
                             span.arrow →
 
     if config.highlight.enable
