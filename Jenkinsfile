@@ -49,6 +49,8 @@ pipeline {
             sh "docker tag 'yangyangcao/stop-coding-hexo':${params.Version} 'yangyangcao/stop-coding-hexo':${env.GIT_VERSION}"
             sh "docker push 'yangyangcao/stop-coding-hexo':${env.GIT_VERSION}"
             sh "echo \"${env.GIT_VERSION}\""
+            sh "cd /root"
+            sh ". deploy_stop.sh"
           }
     }
   }
