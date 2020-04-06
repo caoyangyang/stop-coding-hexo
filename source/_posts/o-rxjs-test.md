@@ -57,7 +57,7 @@ Subscription 的弹珠语法
 - "!" 取消订阅时间点: 显示取消订阅发生的时间点。
 
 所以我们尝试逐行理解下前面出现的测试
-```
+```js
   asDiagram('map(x => 10 * x)')('should map multiple values', function () {
        ***
     });
