@@ -56,6 +56,9 @@
     font-size: 48px;
     margin: 0;
     padding: 10px 0;
+    @media screen and (max-width: 768px) {
+        font-size: 30px;
+    }
 
     a {
         display: block;
