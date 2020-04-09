@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chic-update
+theme: chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
