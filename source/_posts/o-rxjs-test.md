@@ -1,5 +1,7 @@
 ---
 title: RxJS修炼之 用弹珠测试学习RxJS
+tags: 测试实践
+category: 工具
 ---
 
 罗里吧嗦的一些解释

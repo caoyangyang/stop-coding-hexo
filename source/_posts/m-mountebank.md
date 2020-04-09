@@ -1,5 +1,8 @@
 ---
 title: 如何用mountebank作mock service
+date: 2016-08-05 21:27:59
+tags: 测试实践
+category: 工具
 ---
 
 ### Mountebank--江湖骗子,他有药，你要吗？

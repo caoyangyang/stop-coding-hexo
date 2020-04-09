@@ -1,5 +1,7 @@
 ---
 title: 如何用Rosie来mock data
+tags: 测试实践
+category: 工具
 ---
 
 ### Rosie? factory_girl?

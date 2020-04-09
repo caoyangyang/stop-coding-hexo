@@ -65,7 +65,12 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  tech: 技术
+  по-русски: in-russian
+  fun: fun and jokes
+  jokes: fun and jokes
 tag_map:
+  agile: 敏捷
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -94,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: acetolog
+theme: Chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

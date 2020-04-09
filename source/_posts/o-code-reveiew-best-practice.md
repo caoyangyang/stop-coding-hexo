@@ -1,5 +1,7 @@
 ---
 title: code review 最佳实践[翻译]  
+tags: 敏捷实践
+category: 最佳实践
 ---
 
 ----------
