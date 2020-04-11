@@ -1,6 +1,7 @@
 ---
 title: 另一种build方式——bili
 tags: 前端工程化
+date: 2019-08-27 21:27:59
 category: 工具
 ---
 ### 另一种系列

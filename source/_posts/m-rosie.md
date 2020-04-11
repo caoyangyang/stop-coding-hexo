@@ -1,6 +1,7 @@
 ---
 title: 如何用Rosie来mock data
 tags: 测试实践
+date: 2017-07-18 21:27:59
 category: 工具
 ---
 
