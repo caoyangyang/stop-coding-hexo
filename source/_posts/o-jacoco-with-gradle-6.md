@@ -2,7 +2,7 @@
 title: gradle 6 with jacoco
 date: 2020-04-12 21:27:59
 tags: 测试实践
-category: java
+category: 杂
 ---
 
 ### jacoco作用

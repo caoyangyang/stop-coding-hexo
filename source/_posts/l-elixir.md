@@ -2,7 +2,7 @@
 title: 关于Elixir学习的101？
 date: 2017-01-08 21:27:59
 tags: Elixir
-category: 技术基础
+category: 杂
 ---
 ## Elixir 初尝试 0 --环境安装
 这一篇是从我自己的笔记里面搬出来的，所以有些描述会过于简洁。

@@ -2,7 +2,7 @@
 title: Fix一个随机出现的键盘弹出的issue后的思考（ReactNative）
 date: 2018-03-29 21:27:59
 tags: ReactNative
-category: 技术基础
+category: 杂
 ---
 
 最近花了近一周fix了一个移动端的bug，是个很有趣的bug，大概是这样的。这是一个比较长的故事，有兴趣的可以一直看。

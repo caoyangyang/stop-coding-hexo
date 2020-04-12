@@ -1,7 +1,7 @@
 ---
 title: 另一种获取新技术信息的方式
 tags: 自我学习
-category: 方法论
+category: 方法
 date: 2019-08-28 21:27:59
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 前端学习资源链接
 tags: 自我学习
-category: 资源
+category: 杂
 date: 2020-04-09 21:27:59
 ---
 
