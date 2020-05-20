@@ -198,7 +198,7 @@ category: 实践
 后面我会自学更多相关法律和各位小伙伴们分享。
 
 ## 反馈结果的追踪
-前期傻乎乎的就是打电话， 写留言，后面我会用trello把所有的处理串在一起，给大家分享。
+前期傻乎乎的就是打电话， 写留言，后面我会用[trello][10]把所有的处理串在一起，给大家分享。
 大家一定要记住，投诉是有成本的，不是仅仅写个匿名信那样，而是确定我们的诉求，达成诉求，需要整个过程的追踪。
 
 ## 持续优化
@@ -216,4 +216,5 @@ category: 实践
 [7]:https://stopcoding.cn/2020/05/15/l-about-feedback/
 [8]:http://leaders.people.com.cn/
 [9]:http://www.gov.cn/zwgk/2007-04/29/content_601234.htm
+[10]:https://trello.com/b/i971IFTC/%E9%BB%84%E5%86%88%E7%BA%A2%E5%AE%89%E4%B8%8D%E5%8A%A8%E4%BA%A7%E5%8A%9E%E7%90%86%E6%8A%95%E8%AF%89%E8%BF%BD%E8%B8%AA
 
